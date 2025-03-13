@@ -12,8 +12,8 @@
 
 | GT                       | TAESD                       | TAESDV                       |
 | ------------------------ | --------------------------- | ---------------------------- |
-| ![GT_1](.\figs\GT_1.gif) | ![GT_1](.\figs\TAESD_1.gif) | ![GT_1](.\figs\TAESDV_1.gif) |
-| ![GT_1](.\figs\GT_2.gif) | ![GT_1](.\figs\TAESD_2.gif) | ![GT_1](.\figs\TAESDV_2.gif) |
+| ![GT_1](figs\GT_1.gif) | ![GT_1](figs\TAESD_1.gif) | ![GT_1](figs\TAESDV_1.gif) |
+| ![GT_1](figs\GT_2.gif) | ![GT_1](figs\TAESD_2.gif) | ![GT_1](figs\TAESDV_2.gif) |
 |                          |                             |                              |
 
 
