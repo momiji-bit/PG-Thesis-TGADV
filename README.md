@@ -1,5 +1,7 @@
 # TGADV
 
+[[Development Log](https://crimson-plum-981.notion.site/Text-guided-Anomaly-Detection-in-Videos-1b3e4c9fc1e780548305cd08a9319426)]
+
 **Text-guided Anomaly Detection in Videos** (Master thesis), 03/2025 - present
 
 *Researcher*, [Kaan Akşit (Advisor)](https://kaanaksit.com/)
