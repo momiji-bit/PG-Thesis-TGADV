@@ -45736,26 +45736,6 @@
             "ssim": 0.8301336366556437,
             "lpips": 0.0919297321058398
         },
-        "v_PommelHorse_g05_c01.avi": {
-            "psnr": null,
-            "ssim": null,
-            "lpips": null
-        },
-        "v_PommelHorse_g05_c02.avi": {
-            "psnr": null,
-            "ssim": null,
-            "lpips": null
-        },
-        "v_PommelHorse_g05_c03.avi": {
-            "psnr": null,
-            "ssim": null,
-            "lpips": null
-        },
-        "v_PommelHorse_g05_c04.avi": {
-            "psnr": null,
-            "ssim": null,
-            "lpips": null
-        },
         "v_PommelHorse_g06_c01.avi": {
             "psnr": 29.482123950742114,
             "ssim": 0.88418793554407,
