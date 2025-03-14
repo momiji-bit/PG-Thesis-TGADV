@@ -1,4 +1,4 @@
-# TGADV
+# PG-Thesis-TGADV
 
 [[Development Log](https://crimson-plum-981.notion.site/Text-guided-Anomaly-Detection-in-Videos-1b3e4c9fc1e780548305cd08a9319426)]
 
