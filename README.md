@@ -14,7 +14,7 @@
 
 | GT                     | TAESD                     | TAESDV                     | CV-VAE                         | IV-VAE                         |
 | ---------------------- | ------------------------- | -------------------------- | ------------------------------ | ------------------------------ |
-| ![GT_1](figs/GT_1.gif) | ![GT_1](figs/TAESD_1.gif) | ![GT_1](figs/TAESDV_1.gif) | ![CV-VAE_1](figs\CV-VAE_1.gif) | ![IV-VAE_1](figs\IV-VAE_1.gif) |
+| ![GT_1](figs/GT_1.gif) | ![GT_1](figs/TAESD_1.gif) | ![GT_1](figs/TAESDV_1.gif) | ![CV-VAE_1](figs/CV-VAE_1.gif) | ![IV-VAE_1](figs/IV-VAE_1.gif) |
 | ![GT_2](figs/GT_2.gif) | ![GT_2](figs/TAESD_2.gif) | ![GT_2](figs/TAESDV_2.gif) |                                |                                |
 | ![GT_3](figs/GT_3.gif) | ![GT_3](figs/TAESD_3.gif) | ![GT_3](figs/TAESDV_3.gif) |                                |                                |
 
